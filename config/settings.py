@@ -215,7 +215,7 @@ APPEND_SLASH = False
 JAZZMIN_SETTINGS ={
     'site_header': "Ecommerce",
     'site_brand': 'You order, we deliver',
-    # 'site_logo': '/images/logo.jpg',
+    'site_logo': '/images/logo.jpg',
     'copyright': 'ecommerce.com',
 }
 
